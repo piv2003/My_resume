@@ -173,10 +173,10 @@ body {
     margin: 40px 35px;
     background-color: silver;
     box-shadow: 0 0 10px 5px gray,
-              40px -30px 15px gray,
-              40px 30px 50px gray,
-             -40px 30px 15px gray,
-             -40px -30px 50px gray;
+              20px -15px 10px gray,
+              20px 15px 25px gray,
+             -20px 15px 10px gray,
+             -20px -15px 25px gray;
 }
 
 .contacts-section,
