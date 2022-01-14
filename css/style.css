@@ -171,12 +171,8 @@ body {
 
 .sidebar-img {
     margin: 40px 35px;
-    background-color: silver;
-    box-shadow: 0 0 10px 5px gray,
-              20px -15px 10px gray,
-              20px 15px 25px gray,
-             -20px 15px 10px gray,
-             -20px -15px 25px gray;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 1px rgba(20,0,0,0.5));
 }
 
 .contacts-section,
