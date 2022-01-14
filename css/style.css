@@ -172,11 +172,11 @@ body {
 .sidebar-img {
     margin: 40px 35px;
     background-color: silver;
-    box-shadow: 0 0 10px 5px black,
-              40px -30px 15px lime,
-              40px 30px 50px red,
-             -40px 30px 15px yellow,
-             -40px -30px 50px blue;
+    box-shadow: 0 0 10px 5px gray,
+              40px -30px 15px gray,
+              40px 30px 50px gray,
+             -40px 30px 15px gray,
+             -40px -30px 50px gray;
 }
 
 .contacts-section,
