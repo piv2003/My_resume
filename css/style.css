@@ -208,7 +208,7 @@ body {
     text-decoration: none;
 }
 
-.underline {
+.underline--no {
     text-decoration:underline;
 }
 
