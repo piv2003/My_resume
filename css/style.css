@@ -38,11 +38,18 @@ body {
 .about-me-profession {
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 17px;
     color: #000;
     margin: 0 0 20px 0;
+    text-transform: uppercase;    
+    border-radius: 30px;
 }
+
+/* .about-me-color {
+    background-color: #ffffAA;
+    border-radius: 30px;
+} */
 
 .about-me-name {
     font-style: normal;
@@ -51,13 +58,15 @@ body {
     line-height: 55px;
     color: #000;
     margin: 0 0 25px 0;
+    text-transform: uppercase;    
+    border-radius: 30px;
 }
 
 .about-me-description {
-    width: 400px;
+    /* width: 400px; */
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #000;
 }
@@ -166,11 +175,11 @@ body {
 .sidebar-section {
     background-color: #1e2939;
     width: 370px;
-    padding: 40px 0;
+    padding: 20px 0;
 }
 
 .sidebar-img {
-    margin: 40px 35px;
+    margin: 20px 35px;
     border-radius: 20px;
     filter: drop-shadow(10px 10px 1px rgba(255, 255, 255, 0.1));
 }
@@ -208,8 +217,8 @@ body {
     text-decoration: none;
 }
 
-.dop_style { 
-    padding-left: 7px;    
+.dop_style {
+    padding-left: 7px;
     color: #fafafa;
     font-style: normal;
     font-weight: normal;
@@ -219,7 +228,7 @@ body {
 }
 
 .underline {
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 .contacts-section-link:hover {
@@ -228,7 +237,8 @@ body {
 
 /* Tech-skills-section */
 .tech-skills-list,
-.soft-skills-list {
+.soft-skills-list,
+.languages-list {
     padding-left: 17px;
 }
 
@@ -251,3 +261,7 @@ body {
     margin: 45px 0 0 40px;
 }
 
+/* Languages-section */
+.languages-section {
+    margin: 45px 0 0 40px;
+}
