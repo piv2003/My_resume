@@ -59,7 +59,7 @@ body {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #090909;
+    color: #000;
 }
 
 /* My project section */
@@ -82,7 +82,7 @@ body {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #090909;
+    color: #000;
 }
 
 .my-projects-text {
@@ -146,7 +146,7 @@ body {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #090909;
+    color: #000;
 }
 
 /* My-education-section */
@@ -208,7 +208,17 @@ body {
     text-decoration: none;
 }
 
-.underline--no {
+.dop_style { 
+    padding-left: 7px;    
+    color: #fafafa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.underline {
     text-decoration:underline;
 }
 
@@ -240,3 +250,4 @@ body {
 .soft-skills-section {
     margin: 45px 0 0 40px;
 }
+
