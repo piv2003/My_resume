@@ -17,6 +17,14 @@ body {
     padding: 100px 90px;
 }
 
+.sidebar-title,
+.summary-title,
+.projects-title,
+.work-title,
+.education-title {
+text-transform: uppercase;
+}
+
 .main-content-title {
     font-style: normal;
     font-weight: bold;
@@ -40,7 +48,7 @@ body {
     font-weight: bold;
     font-size: 20px;
     line-height: 17px;
-    color: #000;
+    color: #079;
     margin: 0 0 20px 0;
     text-transform: uppercase;    
     border-radius: 30px;
@@ -63,7 +71,7 @@ body {
 }
 
 .about-me-description {
-    /* width: 400px; */
+    /* width: 800px; */
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -71,8 +79,10 @@ body {
     color: #000;
 }
 
-/* My project section */
-.my-projects-section {
+/* My project&summary section */
+.my-projects-section,
+.my-summary-section
+ {
     margin: 0 0 50px 0;
 }
 
