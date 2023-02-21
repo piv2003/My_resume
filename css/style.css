@@ -127,6 +127,11 @@ border-radius: 10px;
     margin-left: 5px;
 }
 
+.my-projects-link {
+    font-weight: bolder;
+    font-size: 16px;
+}
+
 .my-projects-bracket,
 .my-projects-list {
     font-style: normal;
@@ -173,9 +178,14 @@ border-radius: 10px;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 15px;
+    line-height: 25px;
     color: #a8a8a8;
     margin: 0 0 10px 0;
+}
+
+.additional {
+    font-size: 16px;
+    color: #000;
 }
 
 .my-work-experience-devider {
@@ -189,9 +199,13 @@ border-radius: 10px;
 .my-work-experience-duty {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #000;
+}
+
+.additional-span {
+    font-weight: bolder;
 }
 
 /* My-education-section */
@@ -201,10 +215,10 @@ border-radius: 10px;
 
 .my-education-position {
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 14px;
     line-height: 17px;
-    margin: 0 0 10px 0;
+    margin: 5px 0 5px 0;
 }
 
 /* Sidebar-section */
