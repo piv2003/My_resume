@@ -18,7 +18,8 @@ ul {
 
 .main-container {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    /* flex-direction: row-reverse; */
     margin: 40px auto;
     width: 1200px;
     background-color: #fff;
