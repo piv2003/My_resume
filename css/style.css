@@ -171,25 +171,15 @@ border-radius: 10px;
     font-weight: bold;
     font-size: 16px;
     line-height: 20px;
-    margin: 0 0 10px 0;
+    margin: 0 0 3px 0;
 }
 
 .my-work-experience-period {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 25px;
-    color: #a8a8a8;
+    line-height: 25px;    
     margin: 0 0 10px 0;
-}
-
-.additional {
-    font-size: 16px;
-    color: #000;
-}
-
-.my-work-experience-devider {
-    color: #000;
 }
 
 .my-work-experience-duties {
@@ -205,7 +195,12 @@ border-radius: 10px;
 }
 
 .additional-span {
-    font-weight: bolder;
+    font-weight: bolder;    
+    font-size: 16px;    
+}
+
+.my-work-experience-devider {
+    font-weight: bold;
 }
 
 /* My-education-section */
@@ -216,7 +211,7 @@ border-radius: 10px;
 .my-education-position {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 17px;
     margin: 5px 0 5px 0;
 }
